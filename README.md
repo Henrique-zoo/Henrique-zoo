@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique-zoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&disable_animations=false&hide_border=true&theme=midnight-purple" height="182" alt="languages graph"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique-zoo&locale=en&hide_title=false&layout=compact&radius=8&hide_border=true&card_width=320&disable_animations=false&title_color=7F3ACE&line=7F3ACE&area=true&area_color=7F3ACE&theme=high-contrast" height="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique-zoo&locale=en&hide_title=false&layout=compact&radius=8&hide_border=true&card_width=320&disable_animations=false&title_color=7F3ACE&line=7F3ACE&area=true&area_color=7F3ACE&theme=high-contrast" height="300" alt="activity graph"/>
 </div>
 
 ###
@@ -25,9 +25,9 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
   <img width="12"/>
