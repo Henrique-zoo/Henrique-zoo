@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋! My name is Henrique. I'm from Brazil.</h1>
+<h1 align="left">Hi there! 👋 My name is Henrique. I'm from Brazil.</h1>
 
-- 🌱 I’m currently studying computer engineering at University of Brasília
+- 🌱 I’m currently studying computer engineering at the University of Brasília (UnB)
 - 👀 I’m interested in Competitive Programming, Digital Systems and others
 - 📫 You can reach me through e-mail or the social media links in this page
 
