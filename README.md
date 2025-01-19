@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-zoo&hide_title=false&rank_icon=github&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&theme=midnight-purple" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique-zoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&disable_animations=false&hide_border=true&theme=midnight-purple" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-zoo&hide_title=false&rank_icon=github&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&theme=midnight-purple" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique-zoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&disable_animations=false&hide_border=true&theme=midnight-purple" height="160" alt="languages graph"/>
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique-zoo&locale=en&hide_title=false&layout=compact&radius=8&hide_border=true&card_width=320&disable_animations=false&title_color=7F3ACE&line=7F3ACE&area=true&area_color=7F3ACE&theme=high-contrast" height="300" alt="activity graph"/>
