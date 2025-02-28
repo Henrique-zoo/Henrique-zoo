@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying computer engineering at the University of Brasília (UnB)
 - 👀 I’m interested in Competitive Programming, Digital Systems and others
 - 📫 You can reach me through e-mail or the social media links in this page
+- 📚 I'm also studying Rust more deeply through it's [official documentation](https://doc.rust-lang.org/book/title-page.html)
 
 ###
 
@@ -20,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"/>
   <img width="12"/>
