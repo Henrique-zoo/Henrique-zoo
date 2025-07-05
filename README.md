@@ -35,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" height="30" alt="css logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" height="30" alt="html logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="30" height="30" alt="latex logo"/>
 </div>
 
 ###
@@ -56,7 +57,7 @@
   <table border="0" cellspacing="0" cellpadding="0" style="border: none !important;">
     <tr>
       <td style="border: none; padding: 8px;">
-        <a href="https://github.com/Henrique-zoo/The-Rust-Programming-Language">
+        <a href="https://github.com/Henrique-zoo/The-Rust-Programming-Language" >
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=The-Rust-Programming-Language&hide_border=true&theme=midnight-purple&height=150" alt="The-Rust-Programming-Language" />
         </a>
       </td>
@@ -87,6 +88,18 @@
       <td style="border: none; padding: 8px;">
         <a href="https://github.com/Henrique-zoo/Programacao-Competitiva">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=Programacao-Competitiva&hide_border=true&theme=midnight-purple&height=150" alt="Programacao-Competitiva" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 8px;">
+        <a href="https://github.com/Henrique-zoo/r-python">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=r-python&hide_border=true&theme=midnight-purple&height=150" alt="r-python" />
+        </a>
+      </td>
+      <td style="border: none; padding: 8px;">
+        <a href="https://github.com/Henrique-zoo/Word-in-Context_TP2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=Word-in-Context_TP2&hide_border=true&theme=midnight-purple&height=150" alt="Word-in-Context_TP2" />
         </a>
       </td>
     </tr>
