@@ -81,8 +81,8 @@
     </tr>
     <tr>
       <td style="border: none; padding: 8px;">
-        <a href="https://github.com/Henrique-zoo/Calculadora-de-IRA">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=Calculadora-de-IRA&hide_border=true&theme=midnight-purple&height=150" alt="Calculadora-de-IRA" />
+        <a href="https://github.com/Henrique-zoo/Rendimento-Academico">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=Rendimento-Academico&hide_border=true&theme=midnight-purple&height=150" alt="Rendimento-Academico" />
         </a>
       </td>
       <td style="border: none; padding: 8px;">
