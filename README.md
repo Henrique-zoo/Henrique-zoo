@@ -14,7 +14,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Henrique-zoo&hide_title=false&rank_icon=github&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&height=195&locale=en&hide_border=true&theme=midnight-purple" alt="stats graph" />
       </td>
       <td style="border: none; padding: 0 0 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique-zoo&locale=en&hide_title=false&layout=compact&height=195&langs_count=6&disable_animations=false&hide_border=true&theme=midnight-purple" alt="languages graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique-zoo&locale=en&hide_title=false&layout=compact&height=195&langs_count=8&disable_animations=false&hide_border=true&theme=midnight-purple" alt="languages graph" />
       </td>
     </tr>
   </table>
