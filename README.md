@@ -11,10 +11,10 @@
   <table border="0" cellspacing="0" cellpadding="0" style="border: none !important;">
     <tr>
       <td style="border: none; padding: 0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Henrique-zoo&hide_title=false&rank_icon=github&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&height=195&locale=en&hide_border=true&theme=midnight-purple" alt="stats graph" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Henrique-zoo&hide_title=false&rank_icon=github&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&height=195&locale=en&hide_border=true&theme=midnight-purple" alt="stats graph" " />
       </td>
       <td style="border: none; padding: 0 0 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Henrique-zoo&locale=en&hide_title=false&layout=compact&height=195&langs_count=8&disable_animations=false&hide_border=true&theme=midnight-purple" alt="languages graph" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Henrique-zoo&locale=en&hide_title=false&layout=compact&height=195&langs_count=8&disable_animations=false&hide_border=true&theme=midnight-purple" alt="languages graph" />
       </td>
     </tr>
   </table>
@@ -47,61 +47,4 @@
   <a href="https://www.linkedin.com/in/henrique-morcelles/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none !important;">
-    <tr>
-      <td style="border: none; padding: 8px;">
-        <a href="https://github.com/Henrique-zoo/The-Rust-Programming-Language" >
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=The-Rust-Programming-Language&hide_border=true&theme=midnight-purple&height=150" alt="The-Rust-Programming-Language" />
-        </a>
-      </td>
-      <td style="border: none; padding: 8px;">
-        <a href="https://github.com/Henrique-zoo/Projeto-Final-TP1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=Projeto-Final-TP1&hide_border=true&theme=midnight-purple&height=150" alt="Projeto-Final-TP1" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 8px;">
-        <a href="https://github.com/Henrique-zoo/Projeto-TR1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=Projeto-TR1&hide_border=true&theme=midnight-purple&height=150" alt="Projeto-TR1" />
-        </a>
-      </td>
-      <td style="border: none; padding: 8px;">
-        <a href="https://github.com/Henrique-zoo/Linguagens-de-Programacao">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=Linguagens-de-Programacao&hide_border=true&theme=midnight-purple&height=150" alt="Linguagens-de-Programacao" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 8px;">
-        <a href="https://github.com/Henrique-zoo/Rendimento-Academico">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=Rendimento-Academico&hide_border=true&theme=midnight-purple&height=150" alt="Rendimento-Academico" />
-        </a>
-      </td>
-      <td style="border: none; padding: 8px;">
-        <a href="https://github.com/Henrique-zoo/Programacao-Competitiva">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=Programacao-Competitiva&hide_border=true&theme=midnight-purple&height=150" alt="Programacao-Competitiva" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 8px;">
-        <a href="https://github.com/Henrique-zoo/r-python">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=r-python&hide_border=true&theme=midnight-purple&height=150" alt="r-python" />
-        </a>
-      </td>
-      <td style="border: none; padding: 8px;">
-        <a href="https://github.com/Henrique-zoo/Word-in-Context_TP2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-zoo&repo=Word-in-Context_TP2&hide_border=true&theme=midnight-purple&height=150" alt="Word-in-Context_TP2" />
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
